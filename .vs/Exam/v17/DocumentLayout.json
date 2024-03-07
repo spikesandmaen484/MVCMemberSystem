@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Axildon Romselt\\Desktop\\\u6C42\u8077\\majestic-master\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34631C3F-D236-4341-B042-8D90D5C8304F}|Exam.csproj|c:\\users\\axildon romselt\\desktop\\\u6C42\u8077\\majestic-master\\exam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34631C3F-D236-4341-B042-8D90D5C8304F}|Exam.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34631C3F-D236-4341-B042-8D90D5C8304F}|Exam.csproj|c:\\users\\axildon romselt\\desktop\\\u6C42\u8077\\majestic-master\\exam\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34631C3F-D236-4341-B042-8D90D5C8304F}|Exam.csproj|solutionrelative:views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34631C3F-D236-4341-B042-8D90D5C8304F}|Exam.csproj|c:\\users\\axildon romselt\\desktop\\\u6C42\u8077\\majestic-master\\exam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34631C3F-D236-4341-B042-8D90D5C8304F}|Exam.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axildon Romselt\\Desktop\\\u6C42\u8077\\majestic-master\\Exam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Axildon Romselt\\Desktop\\\u6C42\u8077\\majestic-master\\Exam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T09:32:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axildon Romselt\\Desktop\\\u6C42\u8077\\majestic-master\\Exam\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Axildon Romselt\\Desktop\\\u6C42\u8077\\majestic-master\\Exam\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "Views\\Member\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T09:32:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axildon Romselt\\Desktop\\\u6C42\u8077\\majestic-master\\Exam\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Axildon Romselt\\Desktop\\\u6C42\u8077\\majestic-master\\Exam\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T09:31:56.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
